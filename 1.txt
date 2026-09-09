@@ -1,2 +1,2 @@
-vless://b224d156-d160-4630-9adc-eb98471168d4@172.86.95.236:443?type=ws&security=tls&fp=firefox&sni=qv3z4105ccGjj2Tr2y578.IBZg1lqRj3C7lV9Uo5o1Hv72CU.WoRKers.Dev&path=/vl/E07cPEY9J2fjdKS8?ed%3D2560&alpn=http/1.1#%F0%9F%87%A9%F0%9F%87%EAWARP%20NEW
+vless://b224d156-d160-4630-9adc-eb98471168d4@172.86.95.236:443?type=ws&security=tls&fp=firefox&sni=qv3z4105ccGjj2Tr2y578.IBZg1lqRj3C7lV9Uo5o1Hv72CU.WoRKers.Dev&path=/vl/E07cPEY9J2fjdKS8?ed%3D2560&alpn=http/1.1#%F0%9F%87%A9%F0%9F%87%AAWARP
 vless://b224d156-d160-4630-9adc-eb98471168d4@172.86.95.236:443?type=ws&security=tls&fp=firefox&sni=qv3z4105ccgJj2TR2Y578.iBZg1LqRJ3C7lV9uo5O1hv72CU.WOrKerS.dev&path=/vl/WArpqYD7c2xb1g52Ls7Dz8o0?ed%3D2560&alpn=http/1.1#%F0%9F%92%A6%20Best%20Ping%20F%20%F0%9F%9A%80
