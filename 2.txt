@@ -1,0 +1,1 @@
+vless://b224d156-d160-4630-9adc-eb98471168d4@172.86.95.236:443?type=ws&security=tls&fp=firefox&sni=qv3z4105ccGjj2Tr2y578.IBZg1lqRj3C7lV9Uo5o1Hv72CU.WoRKers.Dev&path=/vl/E07cPEY9J2fjdKS8?ed%3D2560&alpn=http/1.1#%F0%9F%87%A9%F0%9F%87%AAWARP%20NEW
